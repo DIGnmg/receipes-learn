@@ -16,6 +16,7 @@
 		AEDBAC311CD8F4AA007A234F /* Recipe+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDBAC2F1CD8F4AA007A234F /* Recipe+CoreDataProperties.swift */; };
 		AEDBAC321CD8F4AA007A234F /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDBAC301CD8F4AA007A234F /* Recipe.swift */; };
 		AEDBAC341CD8F754007A234F /* RecipeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDBAC331CD8F754007A234F /* RecipeCell.swift */; };
+		AEDBAC361CD90006007A234F /* CreateRecipeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDBAC351CD90006007A234F /* CreateRecipeVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		AEDBAC2F1CD8F4AA007A234F /* Recipe+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Recipe+CoreDataProperties.swift"; path = "../Recipe+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		AEDBAC301CD8F4AA007A234F /* Recipe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Recipe.swift; path = ../Recipe.swift; sourceTree = "<group>"; };
 		AEDBAC331CD8F754007A234F /* RecipeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecipeCell.swift; sourceTree = "<group>"; };
+		AEDBAC351CD90006007A234F /* CreateRecipeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateRecipeVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				AE04A5921CCAABB1001CA6E7 /* ViewController.swift */,
+				AEDBAC351CD90006007A234F /* CreateRecipeVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				AEDBAC311CD8F4AA007A234F /* Recipe+CoreDataProperties.swift in Sources */,
 				AE04A5911CCAABB1001CA6E7 /* AppDelegate.swift in Sources */,
 				AEDBAC341CD8F754007A234F /* RecipeCell.swift in Sources */,
+				AEDBAC361CD90006007A234F /* CreateRecipeVC.swift in Sources */,
 				AE04A5991CCAABB1001CA6E7 /* recipez_learning.xcdatamodeld in Sources */,
 				AEDBAC321CD8F4AA007A234F /* Recipe.swift in Sources */,
 			);
